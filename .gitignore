@@ -208,6 +208,7 @@ __marimo__/
 
 # Data files
 /data/
+/outputs/
 
 # Folder files
 .DS_Store
